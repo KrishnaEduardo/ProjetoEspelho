@@ -1,5 +1,7 @@
 Clone do TT utilizando React, Typescript, TailwindCSS, NextJS
 
+## Alguns dos pacotes não foram atualizados para a versão atual do react, podendo causar erro na instalação, utilizar --legacy-peer-deps ao lado de install (npm install --legacy-peer-deps) para baixar as versões que irão funcionar.
+
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
